@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+.nav{
+background-color: transparent;
+color: black;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+}
+.brandlogo{
+    height: 100px;
+width: 100px;
+border-radius: 100%;
+}
+.navlist{
+list-style: none;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.listitems{
+margin: 0px 20px;
+
+
+}
+.searchbar{
+    display: flex;
+    justify-content: space-around;
+}
+.searchinput{
+width: 250px;
+padding: 5px 0px;
+outline: none;
+}
+.searchBtn{
+padding: 0px 10px;
+cursor: pointer;
+}
+.muzzo{
+    margin-left: 10%;
+}
+.muzz{
+    color: orangered;
+    margin-left: 10%;
+}
+.jan{
+    margin-left: 10%;
+    font-size: xx-large;
+}
+.khan1{
+    margin-left: 10%;
+}
+.khan2{
+    margin-left: 10%;
+}
+.khan3{
+    margin-left: 10%;
